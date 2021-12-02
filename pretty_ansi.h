@@ -1,0 +1,6 @@
+#define WARNING_ANSI "\x1B[35;1mwarning:\x1B[0m"
+#define ERROR_ANSI "\x1B[31;1merror:\x1B[0m"
+#define NOTE_ANSI "\x1B[36;1mnote:\x1B[0m"
+#define BOLD_ANSI(text) "\x1B[1m" text "\x1B[0m"
+#define BOLD_ANSI_ON "\x1B[1m"
+#define BOLD_ANSI_OFF "\x1B[0m"
