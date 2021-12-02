@@ -26,4 +26,3 @@ clean :
 	rm -f *.o *.gch *.dSYM .DS_Store variation_navigator
 
 *.o : Makefile
-

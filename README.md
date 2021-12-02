@@ -42,5 +42,6 @@ while (1) {
     
     /* display canvas on screen via canvas->buf */
 }
+```
 
 The port to an STM32L010RB with a Sharp LCD is in-progress.
